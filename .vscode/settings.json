@@ -1,0 +1,14 @@
+{
+  "latex-workshop.latex.outDir": "Resumepdfs",
+  "latex-workshop.latex.autoClean.run": "never",
+  "latex-workshop.latex.clean.fileTypes": [
+    "*.aux",
+    "*.log",
+    "*.out",
+    "*.toc",
+    "*.fls",
+    "*.fdb_latexmk",
+    "*.synctex.gz",
+    "*.gz"
+  ]
+}
